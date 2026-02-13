@@ -21,7 +21,7 @@ This example handles the [ProcessNewValue](https://docs.devexpress.com/WindowsFo
 * [Lookup Editors for WinForms](https://docs.devexpress.com/WindowsForms/116008/controls-and-libraries/editors-and-simple-controls/lookup-editors)
 * [ComboBox Mode - Enter New Values](https://docs.devexpress.com/WindowsForms/116019/controls-and-libraries/editors-and-simple-controls/lookup-editors/combobox-mode-allow-entering-new-values)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-use-the-processnewvalue-event-of-a-lookup-editor-e285&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-use-the-processnewvalue-event-of-a-lookup-editor-e285&~~~was_helpful=no)
 
